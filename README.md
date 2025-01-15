@@ -77,5 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Chainlit](https://chainlit.io/) for the conversational framework.
 - External APIs for providing travel-related data.
 
-## Contact
-For questions or support, contact [your-email@example.com](mailto:your-email@example.com).
+
